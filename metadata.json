@@ -1,0 +1,6 @@
+{
+  "name": "KrishiPredict",
+  "description": "A production-ready Crop Yield Prediction System for Indian Farmers using XGBoost and React. Features include historical trends, smart suggestions, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
