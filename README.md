@@ -64,6 +64,6 @@ This project demonstrates modern React development, API integration, AI-assisted
 
 ## Author
 
-**Arihant** — BCA student at JIIT Delhi
+**Arihant** — BCA student at JIIT Noida
 
 [GitHub](https://github.com/arihxnt786)
