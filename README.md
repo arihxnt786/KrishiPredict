@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# KrishiPredict — AI-Powered Agriculture Assistant
 
-# Run and deploy your AI Studio app
+> A modern web application exploring AI-assisted decision support for agriculture.
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/25cf1700-6361-4b53-97dd-2b15c6562218
+KrishiPredict is an AI-focused agriculture application built with React and a Node.js-based development server. It explores how generative AI can be integrated into a practical domain application through a clean, interactive interface.
 
-## Run Locally
+## Highlights
 
-**Prerequisites:**  Node.js
+- AI-assisted agriculture workflows
+- Interactive React user interface
+- Gemini API integration
+- Data-driven application workflow
+- Responsive dashboard-oriented experience
 
+## Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express
+- **AI:** Google Gemini API
+- **Charts:** Recharts
+- **Database:** SQLite
+- **Language:** JavaScript / TypeScript
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- A Gemini API key
+
+### Installation
+
+```bash
+npm install
+```
+
+Create `.env.local` and configure the required Gemini API key without committing secrets to Git.
+
+```bash
+GEMINI_API_KEY=your_api_key_here
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## Security Note
+
+Never commit API keys, `.env` files, or other credentials to the repository. Use environment variables for local and deployed configurations.
+
+## Portfolio Focus
+
+This project demonstrates modern React development, API integration, AI-assisted application design, responsive UI development, and full-stack JavaScript concepts.
+
+## Author
+
+**Arihant** — BCA student at JIIT Delhi
+
+[GitHub](https://github.com/arihxnt786)
